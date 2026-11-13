@@ -6,3 +6,10 @@ I just coded the globe, but i will get the hang of it pretty quickly
 
 This the globe 0.01
 <img width="266" height="320" alt="image" src="https://github.com/user-attachments/assets/57d92d17-4c00-41d2-a8f7-b66ba313802e" />
+
+## 13/11/2026
+A new step! Now it spins
+
+This the globe 0.02
+https://github.com/user-attachments/assets/f47fca22-665d-4c47-b7ce-08f52e6ee100
+
