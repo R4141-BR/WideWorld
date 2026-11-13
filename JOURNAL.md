@@ -9,6 +9,7 @@ This the globe 0.01
 
 ## 13/11/2026
 A new step! Now it spins
+<img width="342" height="335" alt="image" src="https://github.com/user-attachments/assets/b81b4251-8b5b-438a-9d8f-2d56cff80835" />
 
 This the globe 0.02
 https://github.com/user-attachments/assets/f47fca22-665d-4c47-b7ce-08f52e6ee100
